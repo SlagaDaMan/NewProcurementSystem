@@ -27,6 +27,7 @@ namespace ProcurementSystem.Models
         public int SRNumber { get; set; }
         public int AssetNo { get; set; }
         public int TypeOfVehicle { get; set; }
+        //
 
     }
 }
